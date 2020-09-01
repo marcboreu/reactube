@@ -1,4 +1,49 @@
+### Hello everybody! 👋 I'm Marc Boreu and I'm Front-End Developer 💻
+
+# `REACTUBE APP`
+
+- 🤓 Youtube Clone made with React
+- 💪 Javascript, javascript, then javascript
+
+### Mockup
+
+[<img align="left" alt="marcboreu.com" width="100%" src="./Mockup-Reactube.png" />][website]
+
+### Connect with me:
+
+[<img align="left" alt="marcboreu.com" width="40px" src="https://github.com/marcboreu/marcboreu/blob/master/logoMarcBoreu__.png" />][website]
+[<img align="left" alt="Linkedin | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
+
+### Languages, technologies & tools: 
+
+[<img align="left" alt="HTML5" width="30vw" src="https://github.com/marcboreu/marcboreu/blob/master/HTML5.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="30vw" src="https://github.com/marcboreu/marcboreu/blob/master/CSS3.png" />][webdevplaylist]
+[<img align="left" alt="Javascript" width="30vw" src="https://github.com/marcboreu/marcboreu/blob/master/JavaScript-logo.png" />][webdevplaylist]
+[<img align="left" alt="Bootstrap" width="32vw" src="https://github.com/marcboreu/marcboreu/blob/master/Bootstrap.png" />][webdevplaylist]
+[<img align="left" alt="React" width="35vw" src="https://github.com/marcboreu/marcboreu/blob/master/React.png" />][webdevplaylist]
+[<img align="left" alt="nodeJS" width="35vw" src="https://github.com/marcboreu/marcboreu/blob/master/nodeJS.png" />][webdevplaylist]
+[<img align="left" alt="Google Firebase" width="35vw" src="https://github.com/marcboreu/marcboreu/blob/master/googleFirebase.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="40vw" src="https://github.com/marcboreu/marcboreu/blob/master/GIT.png" />][webdevplaylist]
+[<img align="left" alt="github" width="40vw" src="https://github.com/marcboreu/marcboreu/blob/master/gitHub.png" />][webdevplaylist]
+[<img align="left" alt="Adobe Photoshop" width="40vw" src="https://github.com/marcboreu/bio/blob/master/AdobePhotoshop.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="40vw" src="https://github.com/marcboreu/bio/blob/master/1200px-Visual_Studio_Code_1.18_icon.svg.png" />][webdevplaylist]
+<br />
+<br />
+
+[website]: https://marcboreu.com/
+[linkedin]: https://www.linkedin.com/in/marcboreu
+[webdevplaylist]: https://github.com/marcboreu
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Modules
+
+Material UI
+Axios
+Bootstrap
+Firebase
 
 ## Available Scripts
 
