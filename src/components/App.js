@@ -2,7 +2,7 @@
 import React from "react";
 import { Grid } from "@material-ui/core";
 import youtube from "../api/youtube";
-import SearchBar from "./SearchBar";
+import { SearchBar, VideoList } from "./index";
 
 class App extends React.Component {
   state = {
@@ -38,7 +38,7 @@ class App extends React.Component {
               VIDEODETAIL
             </Grid>
             <Grid item xs={4}>
-              VIDEOLIST
+              <VideoList/>
             </Grid>
           </Grid>
         </Grid>
